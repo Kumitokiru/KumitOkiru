@@ -1,4 +1,4 @@
-#  About Me:
+# 😎 About Me:
 Computer Science graduate specializing in Intelligent Systems and full-stack web development. 
 
 
